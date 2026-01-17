@@ -45,9 +45,8 @@ focus-blocker-js/
 ├── blocker.js
 ├── DOCUMENTATION.md
 ├── screenshots/
-│   ├── block.png
-│   └── status.png
-└── video_link.txt
+│   ├── 
+└── 
 
 ---
 
